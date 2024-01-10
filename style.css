@@ -78,32 +78,3 @@ h1{
 .hide{
     display: none;
 }
-@media screen and (max-width:600px) {
-   h1{
-    font-size: 2.79rem;
-   }
-   .game{
-    height: 60vmin;
-    width: 60vmin;
-    
-    gap: 1vmin;
-    margin-right: 100px;
-   }
-   .box{
-    height: 17vmin;
-    width: 17vmin;
-    
-}
-.container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    
-}
-#reset{
-    margin-top: 40px;
-    margin-right: 99px;
-}
-   
-}
